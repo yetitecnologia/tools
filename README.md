@@ -15,7 +15,7 @@ ports and src):
 
     # pkg install git
     # cd /usr
-    # git clone https://github.com/opnsense/tools
+    # git clone https://github.com/yetitecnologia/tools
     # cd tools
     # make update
 
@@ -24,7 +24,7 @@ by setting ROOTDIR.  For example:
 
     # mkdir -p /tmp/opnsense
     # cd /tmp/opnsense
-    # git clone https://github.com/opnsense/tools
+    # git clone https://github.com/yetitecnologia/tools
     # cd tools
     # env ROOTDIR=/tmp/opnsense make update
 

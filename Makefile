@@ -104,7 +104,7 @@ UEFI?=		arm dvd serial vga vm
 VERSION?=	${_VERSION}
 ZFS?=		# empty
 
-GITBASE?=	https://github.com/opnsense
+GITBASE?=	https://github.com/yetitecnologia
 MIRRORS?=	https://opnsense.c0urier.net \
 		https://mirrors.nycbug.org/pub/opnsense \
 		https://mirror.wdc1.us.leaseweb.net/opnsense \
