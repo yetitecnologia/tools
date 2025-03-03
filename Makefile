@@ -105,12 +105,7 @@ VERSION?=	${_VERSION}
 ZFS?=		# empty
 
 GITBASE?=	https://github.com/yetitecnologia
-MIRRORS?=	https://opnsense.c0urier.net \
-		https://mirrors.nycbug.org/pub/opnsense \
-		https://mirror.wdc1.us.leaseweb.net/opnsense \
-		https://mirror.sfo12.us.leaseweb.net/opnsense \
-		https://mirror.fra10.de.leaseweb.net/opnsense \
-		https://mirror.ams1.nl.leaseweb.net/opnsense
+MIRRORS?=	https://github.com/yetitecnologia
 SERVER?=	user@does.not.exist
 UPLOADDIR?=	.
 
