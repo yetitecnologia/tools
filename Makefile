@@ -105,7 +105,7 @@ VERSION?=	${_VERSION}
 ZFS?=		# empty
 
 GITBASE?=	https://github.com/yetitecnologia
-MIRRORS?=	https://github.com/yetitecnologia
+MIRRORS?=	https://yeti.tec.br/yetisense
 SERVER?=	user@does.not.exist
 UPLOADDIR?=	.
 
