@@ -16,7 +16,8 @@ ports and src):
     # pkg install git
     # cd /usr
     # git clone https://github.com/yetitecnologia/tools
-    # cd tools
+    # cd tools 
+    # chmod +x /usr/tools/scripts/pkg_fingerprint.sh
     # make update
 
 Note that the OPNsense repositories can also be setup in a non-/usr directory
@@ -32,6 +33,7 @@ TL;DR
 =====
 
     # make dvd
+    # Se der erro do pkg 1.19 sendo necessário, vamos rodar: make -C /usr/ports/ports-mgmt/pkg clean all reinstall
 
 If successful, a dvd image can be found under:
 
