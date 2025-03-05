@@ -34,6 +34,7 @@ TL;DR
 
     # make dvd
     # Se der erro do pkg 1.19 sendo necessário, vamos rodar: make -C /usr/ports/ports-mgmt/pkg clean all reinstall
+    Durante o make da port, desmarque a opção de instalar o doc, evitando demorar mais
 
 If successful, a dvd image can be found under:
 
